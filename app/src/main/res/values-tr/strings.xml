@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">KeepAlive</string>
+
+    <string name="lbl_follow_list_title">Bağlantılarım</string>
+    <string name="lbl_new_following_contact">Yeni Kişi Ekle</string>
+    <string name="btn_choose_contact">Rehberden Seç</string>
+    <string name="lbl_period">Görüşme Sıklığı</string>
+    <string name="lbl_period_unit">Gün</string>
+
+    <string name="btn_cancel">Vazgeç</string>
+    <string name="btn_save">Kaydet</string>
+    <string name="lbl_unknown">Bilinmiyor</string>
+    <string name="btn_add">Ekle</string>
+    <string name="lbl_contact_name">İsim</string>
+    <string name="lbl_contact_phone">Telefon</string>
+
+    <string name="lbl_contact_period">Görüşme Sıklığı</string>
+    <string name="lbl_contact_lastseen">Son Görüşme</string>
+    <string name="lbl_contact_planned">Kalan Süre</string>
+    <string name="lbl_contact_days">gün</string>
+    <string name="lbl_contact_days_passed">gün gecikti</string>
+
+    <string name="lbl_quick_two_week">2 hafta</string>
+    <string name="lbl_quick_six_week">6 hafta</string>
+    <string name="lbl_quick_one_month">1 ay</string>
+    <string name="lbl_contact_today">Bugün</string>
+
+    <string name="des_btn_contact_delete">Kişiyi sil</string>
+    <string name="des_btn_contact_add_manuel_calllog">Manuel görüşme ekle</string>
+
+    <string name="notify_reminder_title">%s</string>
+    <string name="notifiy_reminder_text">Arama vakti geldi!</string>
+
+    <string name="lbl_need_permissions">İzin Gerekli</string>
+    <string name="lbl_permission_reasons">KeepAlive, görüşme sıklığınızı takip edebilmek için arama kayıtlarına, size hatırlatma yapabilmek için ise bildirim iznine ihtiyaç duyar.</string>
+    <string name="lbl_give_permission">Kabul Et ve Devam Et</string>
+    <string name="lbl_deny_permission">Hayır, Çıkış</string>
+
+    <string name="notify_summary_title">Hatırlatmalar</string>
+    <string name="notify_summary_text">%d hatırlatmanız var.</string>
+
+    <string name="lbl_select_time">Hatırlatma Saati Seçin</string>
+
+</resources>

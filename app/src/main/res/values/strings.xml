@@ -1,0 +1,55 @@
+<resources>
+    <string name="app_name">KeepAlive</string>
+
+    <string name="lbl_follow_list_title">Connections</string>
+
+    <string name="lbl_new_following_contact">Add Connection</string>
+
+    <string name="btn_choose_contact">Select Contact</string>
+
+    <string name="lbl_period">Frequency</string>
+    <string name="lbl_period_unit">Days</string>
+
+    <string name="btn_cancel">Cancel</string>
+
+    <string name="btn_save">Save</string>
+
+    <string name="lbl_unknown">Unknown</string>
+    <string name="btn_add">Add</string>
+
+    <string name="lbl_contact_name">Name</string>
+    <string name="lbl_contact_phone">Phone</string>
+
+    <string name="lbl_contact_period">Frequency</string>
+
+    <string name="lbl_contact_lastseen">Last Contact</string>
+
+    <string name="lbl_contact_planned">Next call</string>
+
+    <string name="lbl_contact_days">days</string>
+    <string name="lbl_contact_days_passed">days overdue</string>
+
+    <string name="lbl_quick_two_week">2 Weeks</string>
+    <string name="lbl_quick_six_week">6 Weeks</string>
+    <string name="lbl_quick_one_month">1 Month</string>
+
+    <string name="lbl_contact_today">Today</string>
+
+    <string name="des_btn_contact_delete">Delete connection</string>
+    <string name="des_btn_contact_add_manuel_calllog">Log call manually</string>
+    
+    <string name="notify_reminder_title">%s</string>
+    <string name="notifiy_reminder_text">It\'s time to call!</string>
+
+    <string name="lbl_need_permissions">Permissions Required</string>
+    
+    <string name="lbl_permission_reasons">KeepAlive needs access to your call logs to track call frequency and send you reminders.</string>
+    <string name="lbl_give_permission">Allow and Continue</string>
+    <string name="lbl_deny_permission">No, Exit</string>
+
+    <string name="notify_summary_title">Reminders</string>
+    <string name="notify_summary_text">You have %d reminders.</string>
+
+    <string name="lbl_select_time">Select Reminder Time</string>
+    
+</resources>
